@@ -1,0 +1,18 @@
+1 I wonder what is classified as a line in a text file. 
+2 It changes when I resize the screen size so it would be interesting to know how
+3 many characters head and tail consider a line. So far so good on this assignment.
+4 I wonder what is classified as a line in a text file. 
+5 It changes when I resize the screen size so it would be interesting to know how
+6 many characters head and tail consider a line. So far so good on this assignment.
+7 I wonder what is classified as a line in a text file. 
+8 It changes when I resize the screen size so it would be interesting to know how
+9 many characters head and tail consider a line. So far so good on this assignment.
+10 I wonder what is classified as a line in a text file. 
+11 It changes when I resize the screen size so it would be interesting to know how
+12 many characters head and tail consider a line. So far so good on this assignment.
+13 I wonder what is classified as a line in a text file. 
+14 It changes when I resize the screen size so it would be interesting to know how
+15 many characters head and tail consider a line. So far so good on this assignment.
+16 I wonder what is classified as a line in a text file. 
+17 It changes when I resize the screen size so it would be interesting to know how
+18 many characters head and tail consider a line. So far so good on this assignment.
